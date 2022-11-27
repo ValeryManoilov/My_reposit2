@@ -44,3 +44,6 @@ SecondNumber = int(input('Второе число '))
 Mark = input('Знак ')
 Man1 = Student('Алексей', 'Чебыкин', '17', 'Москва', '10', {'Алгебра':4, 'Русский язык':5, 'Литература':4, 'Биология':3})
 Man1.math(FirstNumber, SecondNumber, Mark)
+
+
+print('Hi! How are you?')
